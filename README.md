@@ -4,4 +4,5 @@ Project from Rocketseat's NLW Series
 This app takes a youtube shorts video and downloads it, transforms it from mp4 to mp3, then it gets transcribed and summarized, using artificial inteligence.
 
 ### Images:
-![shortssummary](https://github.com/brcappio/nlw-ia/assets/92182943/a9fce83f-26c0-499f-bad4-ece4b46431e0)
+![summarizer](https://github.com/brcappio/nlw-ia/assets/92182943/1ea8fb68-ff7f-481c-a909-dcf0d4250560)
+
